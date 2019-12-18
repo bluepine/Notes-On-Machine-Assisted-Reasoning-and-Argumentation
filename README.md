@@ -7,3 +7,5 @@
 - On the equivalence between logic programming semantics and argumentation semantics [https://www.sciencedirect.com/science/article/pii/S0888613X14001790]
 - Personalized Recommendations using Knowledge Graphs: A Probabilistic Logic Programming Approach [https://dl.acm.org/citation.cfm?id=2959131]
 - [https://en.wikipedia.org/wiki/Inductive_logic_programming]
+- Modern Compiler Design [https://www.dickgrune.com/Books/MCD_2nd_Edition/]
+- Legal Reasoning Models [https://www.sciencedirect.com/science/article/pii/B0080430767005866]
